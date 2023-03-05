@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usefulCodeCtrosInstances", "usefulCodeCtrosInstances\usefulCodeCtrosInstances.csproj", "{3DBBCDB5-F2F4-4DDE-88B5-D04A87C6C746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DBBCDB5-F2F4-4DDE-88B5-D04A87C6C746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DBBCDB5-F2F4-4DDE-88B5-D04A87C6C746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DBBCDB5-F2F4-4DDE-88B5-D04A87C6C746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DBBCDB5-F2F4-4DDE-88B5-D04A87C6C746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89707292-86B3-4BF6-A0EE-6C80D0BC51A5}
+	EndGlobalSection
+EndGlobal
